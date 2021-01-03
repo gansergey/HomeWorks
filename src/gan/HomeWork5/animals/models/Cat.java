@@ -1,6 +1,6 @@
-package gan.homeworks.HomeWork5.animals.models;
+package gan.HomeWork5.animals.models;
 
-import gan.homeworks.HomeWork5.animals.Animals;
+import gan.HomeWork5.animals.Animals;
 
 public class Cat extends Animals {
     public Cat(String name, int limitRun, int limitSwim, float limitJump){

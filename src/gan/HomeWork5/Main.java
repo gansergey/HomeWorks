@@ -1,9 +1,9 @@
-package gan.homeworks.HomeWork5;
+package gan.HomeWork5;
 
-import gan.homeworks.HomeWork5.animals.models.Bird;
-import gan.homeworks.HomeWork5.animals.models.Cat;
-import gan.homeworks.HomeWork5.animals.models.Dog;
-import gan.homeworks.HomeWork5.animals.models.Horse;
+import gan.HomeWork5.animals.models.Bird;
+import gan.HomeWork5.animals.models.Cat;
+import gan.HomeWork5.animals.models.Dog;
+import gan.HomeWork5.animals.models.Horse;
 
 
 public class Main {

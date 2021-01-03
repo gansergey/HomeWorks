@@ -1,4 +1,4 @@
-package gan.homeworks.HomeWork5.animals;
+package gan.HomeWork5.animals;
 
 public class Animals {
 
