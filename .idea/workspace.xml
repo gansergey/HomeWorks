@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="273ba66a-b62b-4f94-b336-1fe1c16773d5" name="Default Changelist" comment="Course2_HW2" />
+    <list default="true" id="273ba66a-b62b-4f94-b336-1fe1c16773d5" name="Default Changelist" comment="Course2_HW3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,11 +92,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HomeWork\JavaCourseBegin\src\gan\Course2" />
       <recent name="D:\HomeWork\JavaCourseBegin\src\gan\Course2\HomeWork2" />
       <recent name="D:\HomeWork\JavaCourseBegin\src\gan\course2\lesson1" />
       <recent name="D:\HomeWork\JavaCourseBegin\src" />
       <recent name="D:\HomeWork\JavaCourseBegin\src\gan\HomeWork7" />
-      <recent name="D:\HomeWork\JavaCourseBegin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\HomeWork\JavaCourseBegin" />
@@ -227,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612373673575</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Course2_HW2">
+      <created>1612374211926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612374211926</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Course2_HW3">
+      <created>1612374460068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612374460068</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +275,7 @@
     <MESSAGE value="HW7" />
     <MESSAGE value="Course2_HW1" />
     <MESSAGE value="Course2_HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Course2_HW2" />
+    <MESSAGE value="Course2_HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course2_HW3" />
   </component>
 </project>
